@@ -6,7 +6,7 @@
 
 ## 🔥 About Me
 - 🎓 Pursuing **B.Tech in AI & Machine Learning** at The Northcap University
-- 🛠 Currently building **Deeptrace** – an AI-powered tool for intelligent data insights
+- 🛠 Currently building **Prompt-Optimizer** – an AI-powered browser extension for prompt optimization
 - ✅ Completed **NMSimple** – a lightweight network monitoring tool
 - 💡 Passionate about **AI, SaaS, VLSI, and scalable systems**
 - 🏆 Love turning **college projects into real-world products**
