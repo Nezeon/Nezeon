@@ -1,88 +1,266 @@
-# 👋 Hi, I’m **Ayushmaan Singh Naruka** (Nezeon)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6A5ACD&width=600&lines=AI%2FML+%26+SaaS+Enthusiast;Builder+of+Scalable+Tech;3rd+Year+B.Tech+Student;VLSI+%7C+Network+Monitoring+%7C+Fullstack+Dev)](https://git.io/typing-svg)
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Ayushmaan%20Singh%20Naruka&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Header"/>
 
----
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;Reducing+hours+of+work+to+seconds+%E2%9A%A1;AI+Intern+%40+HivePro+%7C+Cybersecurity+AI;B.Tech+AI+%26+ML+%40+Northcap+University;Open+to+Full-Time+%7C+Internship+Roles+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-## 🔥 About Me
-- 🎓 Pursuing **B.Tech in AI & Machine Learning** at The Northcap University
-- 🛠 Currently building **Prompt-Optimizer** – an AI-powered browser extension for prompt optimization
-- ✅ Completed **NMSimple** – a lightweight network monitoring tool
-- 💡 Passionate about **AI, SaaS, VLSI, and scalable systems**
-- 🏆 Love turning **college projects into real-world products**
+<br/>
 
----
+<!-- PROFILE VIEWS & BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=Nezeon&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Nezeon?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Nezeon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushmaan-singh-naruka/)
 
-## 🛠️ Tech Stack (Current)
-
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Deployment:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Builder.io](https://img.shields.io/badge/Builder.io-FF6C37?style=for-the-badge&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence-CC0000?style=for-the-badge&logoColor=white)
-![Bolt](https://img.shields.io/badge/Bolt-000000?style=for-the-badge&logo=zapier&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</div>
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Deeptrace** – AI-powered data insight system *(in progress)*
-- 🔹 **NMSimple** – Lightweight network monitoring solution
-- 🔹 **CMOS Amplifier Project** – VLSI implementation in Cadence
+<!-- ABOUT ME SECTION -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezeon&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7c3aed" width="260" alt="Top Languages"/>
 
-👉 Explore more in my [repositories](https://github.com/Nezeon?tab=repositories)!
+## `> whoami`
+
+```python
+class Ayushmaan:
+    name     = "Ayushmaan Singh Naruka"
+    alias    = "Nezeon"
+    role     = "AI Engineer & Full-Stack Developer"
+    company  = "HivePro (Cybersecurity AI Intern)"
+    edu      = "B.Tech AI & ML — Northcap University (Sem 6)"
+    location = "India 🇮🇳"
+
+    focus    = [
+        "Agentic AI Systems",
+        "QA Automation (Playwright + Claude)",
+        "Threat Intelligence Platforms",
+        "Full-Stack SaaS Products"
+    ]
+
+    currently_building = [
+        "Agent Orchestration Framework (CrewAI)",
+        "HivePro Internal AI Hub Portal",
+        "GhostAI — Invisible AI Desktop Overlay"
+    ]
+
+    fun_fact = "I turn hours of manual work into seconds with AI 🔥"
+```
+
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Stats
+## `> impact --metrics`
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nezeon&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nezeon&theme=radical" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nezeon&bg_color=1a1b27&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true" width="95%"/>
-</p>
+| 🎯 Achievement | ⚡ Impact |
+|:---|:---|
+| **QA Automation** with Playwright + Claude AI | **70% reduction** in test creation time |
+| **AI Threat Actor Tracker** at HivePro | Profiling time from **4–7 hours → 30–45 seconds** |
+| **Bug Logger Chrome Extension** | Bug logging from **15–20 min → under 5 min** |
+| **EY Techathon 6.0** — Repurpose.AI (Drug Repurposing) | Semi-Finals with Team Syntax Error |
+
+</div>
+
+---
+
+## `> tech --stack --verbose`
+
+<div align="center">
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,vite,electron&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mongodb,firebase&theme=dark)](https://skillicons.dev)
+
+**AI / ML Tools**
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+**DevOps & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 🌐 Let’s Connect
-<p>
-<a href="https://www.linkedin.com/in/ayushmaan-singh-naruka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Nezeon" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## `> projects --featured --production`
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nezeon&style=for-the-badge&color=blueviolet"/>
-</p>
+<div align="center">
+
+<!-- PROJECT CARDS -->
+<a href="https://github.com/Nezeon/AI-Threat-Actor-Tracking-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezeon&repo=AI-Threat-Actor-Tracking-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7c3aed" alt="AI Threat Actor Tracking System"/>
+</a>
+<a href="https://github.com/Nezeon/Agentic-RAG-Assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezeon&repo=Agentic-RAG-Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7c3aed" alt="Agentic RAG Assistant"/>
+</a>
+<a href="https://github.com/Nezeon/Portfolio-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nezeon&repo=Portfolio-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7c3aed" alt="Portfolio Website"/>
+</a>
+
+</div>
+
+<br/>
+
+### 🧠 Flagship Projects — Deep Dive
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔴 HivePro Threat Intel AI
+> **Prod @ HivePro Cybersecurity**
+
+AI-powered Threat Intelligence Platform using **Google Gemini + MITRE ATT&CK + NVD** validation. Generates verified threat actor profiles with a two-pass architecture + 4-step post-generation pipeline.
+
+`TypeScript` `React` `Express` `PostgreSQL` `Gemini AI`
+
+**⚡ 4-7 hours → 30-45 seconds**
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Playwright + Claude QA Automation
+> **Prod @ HivePro Cybersecurity**
+
+End-to-end QA automation pipeline powered by Claude AI that auto-generates, runs, and validates test cases from Jira tickets. Integrated with CI/CD and bug logger.
+
+`Playwright` `Claude AI` `Node.js` `Jira API`
+
+**⚡ 70% reduction in test creation time**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 👻 GhostAI *(Personal Project)*
+> **Open Source · Free Alternative**
+
+Invisible AI desktop overlay for Windows — always-on AI that doesn't interfere with your workflow. BYOK, AES-256 encrypted, zero telemetry. Free alternative to paid overlays.
+
+`Electron` `React` `Node.js` `AES-256`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💊 Repurpose.AI
+> **EY Techathon 6.0 — Semi-Finalist**
+
+Agentic drug repurposing platform using multi-agent AI pipelines. Auto-generates research-grade PDF reports via Playwright + Jinja2. Built for real biomedical data analysis.
+
+`Python` `CrewAI` `FastAPI` `Playwright` `Jinja2`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 Agentic RAG Assistant
+> **Research & Production Ready**
+
+Retrieval-Augmented Generation system with agentic capabilities — multi-step reasoning, dynamic tool use, and grounded responses on private document stores.
+
+`Python` `LangChain` `FastAPI` `Vector DB`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐞 Bug Logger Chrome Extension
+> **Internal Tool @ HivePro**
+
+One-click bug logging from the browser to Jira. Captures screenshots, console logs, and network state automatically. Slashed bug reporting time by 75%.
+
+`JavaScript` `Chrome Extension API` `Jira API`
+
+**⚡ 15-20 min → under 5 min**
+
+</td>
+</tr>
+</table>
 
 ---
-✨ *“Code. Build. Innovate. Repeat.”*
+
+## `> stats --github`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nezeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7c3aed&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nezeon&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" height="165" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=Nezeon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nezeon&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=7c3aed" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## `> experience --current`
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🏢  HivePro — AI Intern (Cybersecurity)              2024 – Present │
+│  ├── Built Threat Actor Tracking System (production)                │
+│  ├── Playwright + Claude QA Automation Framework                    │
+│  ├── Chrome Bug Logger Extension (75% time saved)                   │
+│  ├── Leading Agent Orchestration Framework (CrewAI)                 │
+│  └── Building HivePro AI Hub Portal (React + FastAPI + PostgreSQL)  │
+│                                                                     │
+│  🎓  The Northcap University                          2022 – Present │
+│  └── B.Tech Computer Science (AI & Machine Learning) — Semester 6   │
+│                                                                     │
+│  🏆  EY Techathon 6.0 — Team Syntax Error            2024          │
+│  └── Semi-Finalist · Repurpose.AI · Drug Repurposing Platform       │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> contact --open-to-work`
+
+<div align="center">
+
+**I'm open to SDE / AI Engineer / Full-Stack roles & internships. Let's build something great.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushmaan_Singh_Naruka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushmaan-singh-naruka/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nezeon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nezeon)
+[![Instagram](https://img.shields.io/badge/Instagram-ayushmaan__naruka-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayushmaan_naruka)
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
+
+</div>
+
+> *"I don't just use AI — I build with it, ship with it, and automate the boring parts so humans can focus on what matters."*
+> **— Ayushmaan Singh Naruka**
